@@ -24,6 +24,12 @@ body{
 	"comic Sans MS" => value
 */	
 
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+}
 
 h1 /* centers anything with h1 tag */{
 	text-align: center;
