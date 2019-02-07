@@ -8,7 +8,7 @@
 body{
 	font-family: "Comic Sans MS";
 	background-image: url("https://jonathan081.github.io/images/background.jpeg");
-	color: Orange;
+	color: black;
 	font-size: 20px;
 }
 
@@ -45,5 +45,13 @@ h2, h3 /*everything has an imaginary box that can be modified with margins */{
 p{
 	margin-left: 15%;
 }
+
+.bullet{
+	color: white;
+	display: list-item;
+	list-style-type: disc;
+	list-style-position: inside;
+}
+
 
 
