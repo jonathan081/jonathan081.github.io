@@ -43,7 +43,6 @@ h1 /*Previous changes on the same item are overwritten with newest*/{
 }
 
 h2, h3 /*everything has an imaginary box that can be modified with margins */{
-	border dashed;
 	font-size:25px;
 	margin-left: 10%
 }
@@ -58,6 +57,3 @@ p{
 	list-style-type: disc;
 	list-style-position: inside;
 }
-
-
-
